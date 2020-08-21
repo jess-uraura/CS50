@@ -1,6 +1,6 @@
-# Harvard's CS50
+# CS50: Introduction to Computer Science | Harvard University
 > *Started: early July 2020*
-#### These are some of my favorite problems which the course provided. :relaxed:
+### These are some of my favorite problems which the course provided. :relaxed:
 
 
 ### Week 2 - Arrays
