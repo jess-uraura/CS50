@@ -1,40 +1,52 @@
 # Harvard's CS50
-#### *Started: early July 2020*
+> *Started: early July 2020*
+#### These are some of my favorite problems which the course provided. :relaxed:
 
-### Week 1 - C
-* **Hello**
-* **Mario (less)**
-* **Mario (more)**
-* **Cash**
-* **Credit**
 
 ### Week 2 - Arrays
-* **Readability**
-* **Caesar**
-* **Substitution**
+* **Caesar**<br>
+	 ~ *a program that encrypts messages using Caesar's cipher*
+
+* **Substitution**<br>
+	 ~ *a program that implements a substitution cipher*
 
 ### Week 3 - Algorithms
-* **Plurality**
-* **Runoff**
-* **Tideman**
+* **Plurality**<br>
+	 ~ *a program that runs a plurality election*
+
+* **Runoff**<br>
+	 ~ *a program that runs a runoff election*
+
+* **Tideman**<br>
+	 ~ *a program that runs a Tideman election*
 
 ### Week 4 - Memory
-* **Filter (less)**
-* **Filter (more)**
-* **Recover**
+* **Filter**<br>
+	 ~ *a program that applies filters to BMPs*
+
+* **Recover**<br>
+	 ~ *a program that recovers JPEGs from a forensic image*
 
 ### Week 5 - Data Structures
-* **Speller**
+* **Speller**<br>
+	 ~ *a program that spell-checks a file*
 
 ### Week 6 - Python
-* **Hello**
-* **Mario (less)**
-* **Mario (more)**
-* **Cash**
-* **Credit**
-* **Readability**
-* **DNA**
+* **Cash**<br>
+	 ~ *a program that calculates the minimum number of coins required to give a user change*
+
+* **Credit**<br>
+	 ~ *a program that determines whether a provided credit card number is valid according to Luhn’s algorithm*
+
+* **Readability**<br>
+	 ~ *a program that computes the approximate grade level needed to comprehend some text*
+
+* **DNA**<br>
+	 ~ *a program that identifies a person based on their DNA*
 
 ### Week 7 - SQL
-* **Movies**
-* **Houses**
+* **Movies**<br>
+	 ~ *SQL queries that answer questions about a database of movies*
+	 
+* **Houses**<br>
+	 ~ *programs that import student data into a database and produce class rosters for each of the houses of Hogwarts*
