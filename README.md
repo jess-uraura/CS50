@@ -1,7 +1,10 @@
 # CS50: Introduction to Computer Science | Harvard University
 > *Started: early July 2020*
-### These are some of my favorite problems which the course provided. :relaxed:
+### These are some of my favorite problems which the course provided. :smiley:
 
+### Week 1 - C
+* **Cash**<br>
+	 ~ *a program that calculates the minimum number of coins required to give a user change*
 
 ### Week 2 - Arrays
 * **Caesar**<br>
@@ -17,9 +20,6 @@
 * **Runoff**<br>
 	 ~ *a program that runs a runoff election*
 
-* **Tideman**<br>
-	 ~ *a program that runs a Tideman election*
-
 ### Week 4 - Memory
 * **Filter**<br>
 	 ~ *a program that applies filters to BMPs*
@@ -32,9 +32,6 @@
 	 ~ *a program that spell-checks a file*
 
 ### Week 6 - Python
-* **Cash**<br>
-	 ~ *a program that calculates the minimum number of coins required to give a user change*
-
 * **Credit**<br>
 	 ~ *a program that determines whether a provided credit card number is valid according to Luhn’s algorithm*
 
