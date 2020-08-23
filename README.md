@@ -1,7 +1,7 @@
-# CS50: Introduction to Computer Science | Harvard University
+# CS50: Introduction to Computer Science :computer: | Harvard University :books:
 #### *Started: early July 2020*
 
-### These are some of my favorite problems which the course provided. :smiley:
+### These are some of my favorite problems which the course provided. :slightly_smiling_face:
 
 ### Week 1 - C
 * [**Cash**](https://github.com/jess-uraura/CS50/tree/master/pset1/cash)<br>
@@ -21,7 +21,7 @@
 * [**Runoff**](https://github.com/jess-uraura/CS50/tree/master/pset3/runoff)<br>
 	 ~ *a program that runs a runoff election*
 
-### Week 4 - Memory
+### Week 4 - Memory :floppy_disk:
 * [**Filter**](https://github.com/jess-uraura/CS50/tree/master/pset4/filter)<br>
 	 ~ *a program that applies filters to BMPs*
 
@@ -29,7 +29,7 @@
 	 ~ *a program that recovers JPEGs from a forensic image*
 
 ### Week 5 - Data Structures
-* **Speller**<br>
+* [**Speller**](https://github.com/jess-uraura/CS50/tree/master/pset5/speller)<br>
 	 ~ *a program that spell-checks a file*
 
 ### Week 6 - Python
@@ -46,5 +46,5 @@
 * **Movies**<br>
 	 ~ *SQL queries that answer questions about a database of movies*
 	 
-* **Houses**<br>
+* [**Houses**](https://github.com/jess-uraura/CS50/tree/master/pset7/houses)<br>
 	 ~ *programs that import student data into a database and produce class rosters for each of the houses of Hogwarts*
