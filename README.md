@@ -21,7 +21,7 @@
 * [**Runoff**](https://github.com/jess-uraura/CS50/tree/master/pset3/runoff)<br>
 	 ~ *a program that runs a runoff election*
 
-### Week 4 - Memory :floppy_disk:
+### Week 4 - Memory
 * [**Filter**](https://github.com/jess-uraura/CS50/tree/master/pset4/filter)<br>
 	 ~ *a program that applies filters to BMPs*
 
